@@ -1,1 +1,1 @@
-# Khirniy.s-repo-C-Homework-
+# Khirniy.s_repo_Cpp_Homework
